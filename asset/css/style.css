@@ -171,6 +171,10 @@ li .underline-menu {margin-top:2px;border-style:none none solid none;border-colo
 
 #content-space{
   padding:5px 0 0 15px;
+<<<<<<< HEAD
+=======
+  height:420px;
+>>>>>>> cd14b6c5d764691e1d24f7add06f93838ab95e3f
   float:left;
   width:650px;
 }
@@ -230,6 +234,7 @@ ul.navigation li.current {
 	float: left;
 	padding-bottom: 10px;
 	border-bottom: 1px solid #CCC;
+<<<<<<< HEAD
 	margin-bottom: 15px;
 }
 
@@ -239,6 +244,9 @@ ul.navigation li.current {
 
 .post a:hover{
 	color:#A4884A;
+=======
+  margin-bottom: 15px;
+>>>>>>> cd14b6c5d764691e1d24f7add06f93838ab95e3f
 }
 
 p.post-desc{
@@ -248,6 +256,7 @@ p.post-desc{
 }
 
 .status, .status-value{
+<<<<<<< HEAD
 	margin-top:5px;
 	margin-right:5px;
 	float:left;
@@ -321,6 +330,32 @@ a:hover.btn-uin{
 	padding-left:40px;
 	padding-bottom:10px;
 }
+=======
+  margin-right:5px;
+  float:left;
+  font-family:"Segoe UI Bold";
+  font-size:12.5px;
+}
+
+.status-value{
+  color:#3BAF04;
+}
+
+a:link.btn-uin, a:hover.btn-uin, a:visited.btn-uin{
+  color:#F5F5F5;
+  background-image:url(../img/ico-menu.png);
+  background-repeat:no-repeat;
+  background-position:5px 4px;
+  padding:2px 12px 2px 24px;
+}
+
+a:hover.btn-uin{
+  background-image:url(../img/ico-hover.png);
+  color:#FFF;
+}
+
+.rfloat{float:right;}
+>>>>>>> cd14b6c5d764691e1d24f7add06f93838ab95e3f
 
 /* ---------------- */
 
@@ -334,6 +369,10 @@ a:hover.btn-uin{
   margin-bottom: 15px;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> cd14b6c5d764691e1d24f7add06f93838ab95e3f
 /*----------------*/
 
 .scroll {
@@ -351,16 +390,27 @@ p.content-value{
   margin:0px;
   width:620px;
 }
+<<<<<<< HEAD
 /*
 ::-webkit-scrollbar {
       width: 14px;     
 } /* this targets the default scrollbar (compulsory) /
+=======
+
+::-webkit-scrollbar {
+      width: 14px;     
+} /* this targets the default scrollbar (compulsory) */
+>>>>>>> cd14b6c5d764691e1d24f7add06f93838ab95e3f
   
 ::-webkit-scrollbar-track {
       background-color: #FFFFFF;
       -webkit-box-shadow: inset 1px 1px 0 rgba(204,204,204,204),inset -1px -1px 0 rgba(204,204,204,204);
       border-radius: 2px;
+<<<<<<< HEAD
 } /* the new scrollbar will have a flat appearance with the set background color /
+=======
+} /* the new scrollbar will have a flat appearance with the set background color */
+>>>>>>> cd14b6c5d764691e1d24f7add06f93838ab95e3f
 
 ::-webkit-scrollbar-track:hover {
     background-color: rgba(220,172,0,.035);

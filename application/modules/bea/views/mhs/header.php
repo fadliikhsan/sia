@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+=======
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+>>>>>>> cd14b6c5d764691e1d24f7add06f93838ab95e3f
 <html xmlns="http://www.w3.org/1999/xhtml" />
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<<<<<<< HEAD
         <title>Beasiswa</title>
         
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -14,6 +19,15 @@
 		<script>!window.jQuery && document.write(unescape('%3Cscript src="<?php echo base_url(); ?>asset/js/jquery-1.9.1.min.js"%3E%3C/script%3E'))</script>
 		<!-- custom scrollbars plugin -->
 		<script src="<?php echo base_url(); ?>asset/js/jquery.mCustomScrollbar.concat.min.js"></script>
+=======
+        <title>Ujian TOEFL and TOAFL</title>
+        
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta content='pbba' name='description'/>
+        <meta content='aplikasi ujian online' name='keywords'/>
+        
+		<link href="<?php echo base_url(); ?>asset/css/style.css" rel="stylesheet" type="text/css"/>		
+>>>>>>> cd14b6c5d764691e1d24f7add06f93838ab95e3f
     </head>
     <body>
 	<div id="top-header"></div>
